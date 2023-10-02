@@ -1,7 +1,7 @@
 # Assignment Activity 1
 ## Summary of Assignment Activity
 
-The assignment predominantly involved extensive data manipulation and analysis using a dataset from `turtle_reviews.csv`, which encompasses various customer details and product reviews. Essential libraries such as Pandas, NumPy, and Sklearn facilitated the data exploration, cleaning, and subsequent regression analysis.
+The assignment activity involved data manipulation and analysis using a dataset from `turtle_reviews.csv`, which encompasses various customer details and product reviews. Essential libraries such as Pandas, NumPy, and Sklearn facilitated the data exploration, cleaning, and subsequent regression analysis.
 
 ### Data Cleaning and Management
 The data underwent a thorough cleaning process, including handling missing values, renaming columns, and dropping unnecessary variables, after which the refined data was saved as `reviews_cleaned.csv`.
