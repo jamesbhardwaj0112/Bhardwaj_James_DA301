@@ -37,3 +37,32 @@ The analysis aimed to explore correlations and segmentations within the customer
 ### Analytical Reflections:
 
 The analysis uncovered segmentation and correlations, but cluster size disparities hint at unexplored nuances. Tailored marketing strategies for each cluster will maximize the potential of this segmentation, ensuring optimal resource allocation and leveraging insights effectively.
+
+# Assignment Activity 3
+## Summary of Assignment Activity 3
+
+## 1. Data Pre-processing
+
+- **Handling Missing Values:** Ensured data integrity by managing null or missing entries.
+- **Text Normalization:** Involved stemming, lemmatization, and transformation to lowercase, preparing the reviews for more precise analysis.
+
+## 2. Analysis Techniques
+
+- **NLP and Sentiment Analysis:** Utilized to dissect and comprehend the textual data in reviews.
+- **Sentiment Intensity Analyzer:** Employed from NLTK, which played a pivotal role in categorizing sentiments into predefined slots: positive, neutral, and negative.
+
+## 3. Key Findings
+
+- **Word Usage:** 'Game', 'great', and 'fun' were the most prominently used words in reviews.
+- **Visual Representation:** Word clouds were generated to visualize and ascertain word dominance in customer feedback.
+- **Sentiment Breakdown:** The analysis facilitated a broad perception of customer sentiment through categorization, although this breakdown invites a more detailed examination.
+
+## 4. Further Insights and Recommendations
+
+- **Correlation Studies:** Exploring connections between sentiments and variables like 'loyalty_points' and 'spending_score'.
+- **Advanced Modeling:** Leveraging advanced models, for instance, LSTM, for refined sentiment prediction.
+- **Temporal Analysis:** Investigating how customer sentiments morph over different time frames and identifying any prevalent trends or anomalies.
+
+## 5. Conclusion
+
+An in-depth investigation into the customer reviews utilizing a structured methodology has afforded a preliminary understanding of the prevailing sentiments. While the findings denote a potential inclination towards positive feedback, signified by word usage, a more profound, multifaceted analysis is warranted to truly encapsulate and understand the varied customer perspectives and sentiments.
