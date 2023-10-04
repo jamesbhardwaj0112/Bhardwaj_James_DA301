@@ -30,7 +30,7 @@ The analysis aimed to explore correlations and segmentations within the customer
 
 3. **Customer Segments Characteristics:** Key segments included high earners with high/low spending and low earners with high/low spending, vital for tailored marketing strategies.
 
-4. **Utility of Scores:** Remuneration and spending scores proved beneficial in creating actionable segments. Each cluster represented unique combinations of these variables, revealing varying spending behaviors.
+4. **Utility of Scores:** Remuneration and spending scores proved beneficial in creating actionable segments. Each cluster represented unique combinations of these variables, revealing varying spending behaviours.
 
 5. **Cluster Size and Consistency:** Varying cluster sizes indicated non-uniform data distribution. Some clusters were densely populated, while others were sparse, suggesting underserved or oversaturated market segments.
 
@@ -44,18 +44,18 @@ The analysis uncovered segmentation and correlations, but cluster size dispariti
 ## 1. Data Pre-processing
 
 - **Handling Missing Values:** Ensured data integrity by managing null or missing entries.
-- **Text Normalization:** Involved stemming, lemmatization, and transformation to lowercase, preparing the reviews for more precise analysis.
+- **Text Normalisation:** Involved stemming, lemmatisation, and transformation to lowercase, preparing the reviews for more precise analysis.
 
 ## 2. Analysis Techniques
 
-- **NLP and Sentiment Analysis:** Utilized to dissect and comprehend the textual data in reviews.
-- **Sentiment Intensity Analyzer:** Employed from NLTK, which played a pivotal role in categorizing sentiments into predefined slots: positive, neutral, and negative.
+- **NLP and Sentiment Analysis:** Utilised to dissect and comprehend the textual data in reviews.
+- **Sentiment Intensity Analyser:** Employed from NLTK, which played a pivotal role in categorising sentiments into predefined slots: positive, neutral, and negative.
 
 ## 3. Key Findings
 
 - **Word Usage:** 'Game', 'great', and 'fun' were the most prominently used words in reviews.
-- **Visual Representation:** Word clouds were generated to visualize and ascertain word dominance in customer feedback.
-- **Sentiment Breakdown:** The analysis facilitated a broad perception of customer sentiment through categorization, although this breakdown invites a more detailed examination.
+- **Visual Representation:** Word clouds were generated to visualise and ascertain word dominance in customer feedback.
+- **Sentiment Breakdown:** The analysis facilitated a broad perception of customer sentiment through categorisation, although this breakdown invites a more detailed examination.
 
 ## 4. Further Insights and Recommendations
 
@@ -65,4 +65,26 @@ The analysis uncovered segmentation and correlations, but cluster size dispariti
 
 ## 5. Conclusion
 
-An in-depth investigation into the customer reviews utilizing a structured methodology has afforded a preliminary understanding of the prevailing sentiments. While the findings denote a potential inclination towards positive feedback, signified by word usage, a more profound, multifaceted analysis is warranted to truly encapsulate and understand the varied customer perspectives and sentiments.
+An in-depth investigation into the customer reviews utilising a structured methodology has afforded a preliminary understanding of the prevailing sentiments. While the findings denote a potential inclination towards positive feedback, signified by word usage, a more profound, multifaceted analysis is warranted to truly encapsulate and understand the varied customer perspectives and sentiments.
+
+# Assignment Activity 4
+***Analysing the visualisations provides profound insights into global video game sales across various platforms"**
+
+**Scatterplot (NA vs. EU Sales)**
+
+Predominant clustering between 0-5 on both axes indicates common sales ranges for the majority of games in both regions. A visible pattern: as NA sales increase, EU sales tend to follow, though with some deviation and outliers, especially between 18.5-24 on the NA axis.
+
+**Histogram (Global Sales)**
+
+A left-skewed distribution, with substantial peaks in bins 1 and 2, signifies most global sales figures lie in a lower range, gradually decreasing to minimal frequencies in higher sales ranges, particularly bins 4, 5, and 6.
+
+**Boxplot (Sales by Platform)**
+
+"SNES" exhibits the highest median sales, while "NES", "Wii", and "GB" present notable variability in global sales. Several platforms, especially "Wii", showcase significant outliers, underscoring inconsistent global sales distributions across platforms, albeit median positions remain relatively consistent.
+
+**Bar Plot (Total Sales per Platform)**
+
+"Wii", "XBOX360", "PS3", and "DS" emerge as top-performing platforms, each boasting total sales above 200. Conversely, "2600", "GEN", and "PSV" rank as the lowest performers, each achieving less than approximately 10 in total sales. Despite noticeable leaders, the descent from highest to lowest sales is relatively gradual, implying a broad dispersion in platform sales performance.
+
+These insights convey pivotal information regarding sales trends, disparities across different sales regions, and variability among platforms, ultimately providing a thorough overview of the international gaming market's complex landscape.
+
