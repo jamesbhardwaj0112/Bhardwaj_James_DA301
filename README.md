@@ -68,7 +68,7 @@ The analysis uncovered segmentation and correlations, but cluster size dispariti
 An in-depth investigation into the customer reviews utilising a structured methodology has afforded a preliminary understanding of the prevailing sentiments. While the findings denote a potential inclination towards positive feedback, signified by word usage, a more profound, multifaceted analysis is warranted to truly encapsulate and understand the varied customer perspectives and sentiments.
 
 # Assignment Activity 4
-***Analysing the visualisations provides profound insights into global video game sales across various platforms"**
+**Analysing the visualisations provides profound insights into global video game sales across various platforms"**
 
 **Scatterplot (NA vs. EU Sales)**
 
