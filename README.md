@@ -117,3 +117,51 @@ These insights convey pivotal information regarding sales trends, disparities ac
 - All sales data (Global, NA, and EU) showed a significant positive skewness (Global: 4.03, NA: 4.29, EU: 4.8) and high kurtosis (Global: 29.45, NA: 28.19, EU: 41.44).
 - This pronounced skewness indicates that the sales data have a long right tail, implying a few periods with exceptionally high sales, which is coherent with the peaks observed in the early 2000s.
 - The high kurtosis, particularly in the EU Sales, suggests the presence of outliers or periods of extremely high sales, which could align with the identified peaks.
+
+# Assignment Activity 6
+
+- The previously utilized model discerns a potent relationship between NA, EU, and global video game sales, providing a data-driven foundation for short-term global sales forecasting based on NA and EU sales.
+- With Turtle Games' diverse product range and global footprint, a tailored approach for different product categories and regional preferences, informed by this predictive model, could sharpen marketing and stocking strategies.
+
+## Low Effort + High Impact
+
+### 1. Leverage Regional Predictability
+
+Capitalising on the strong correlation between NA, EU, and global sales with strategic, yet budget-friendly marketing initiatives like email campaigns or regional online ads can yield significant results.
+
+### 2. Seasonality Adjustments
+
+Modifying marketing and stock levels based on historical seasonal trends can be implemented with minimal effort and may yield immediate impacts.
+
+### 3. Strategic Use of Segmentation Insights
+
+Tailoring communication and offers to existing customer segments can be enacted swiftly, utilizing current data and communication channels.
+
+## Moderate Effort + High Impact
+
+### 1. Unified Strategy Across Departments
+
+Ensuring collaboration among marketing, sales, and supply chain teams does not necessarily demand a high budget but requires meticulous planning and consistent communication.
+
+### 2. Optimized Inventory Management
+
+Aligning inventory with predictive insights could require an adjustment in procurement strategies but may not necessitate a substantial budgetary increase.
+
+## High Effort + High Impact
+
+### 1. Data Expansion in Modeling
+
+Incorporating external factors into predictive models may necessitate additional data sourcing, expertise, and possibly technology, implicating a higher effort and budget.
+
+### 2. Product Category Analysis
+
+Conducting a thorough analysis per product category implies deeper research across various SKUs, necessitating dedicated resources and potentially new analytical tools.
+
+### 3. Adopt Advanced Modeling Techniques
+
+Implementing machine learning algorithms and enhancing modelling capabilities will likely require investing in technology and expertise, signalling high effort and potentially high budget.
+
+# Recommendations Summary
+
+Ensuring a balance between immediate, low-effort actions and longer-term, high-effort initiatives will be pivotal. While leveraging existing data and predictive insights can provide quick wins, strategic investments in advanced modeling and analysis will fortify Turtle Games' capability to navigate future market dynamics proficiently and sustainably. This stratified approach ensures that Turtle Games can achieve short-term gains while progressively building towards a robust, data-informed future, balancing immediate results with sustained, scalable impact.
+
