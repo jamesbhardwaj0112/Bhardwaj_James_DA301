@@ -88,3 +88,32 @@ A left-skewed distribution, with substantial peaks in bins 1 and 2, signifies mo
 
 These insights convey pivotal information regarding sales trends, disparities across different sales regions, and variability among platforms, ultimately providing a thorough overview of the international gaming market's complex landscape.
 
+# Assignment Activity 5
+
+## General Trend and Regional Sales Dynamics
+
+**Global Sales (p1)**
+- The global sales of turtle products showed significant growth from around 1990, peaking prominently in the early 2000s (specifically around 2005-06) with close to 70 in sales units.
+- Post-peak, a general, gentle downward trend was observed, notably from 2008 onwards.
+- No distinct cyclic pattern was observed as sales hovered consistently between 0-30 units across years, barring the peak period.
+
+**Regional Sales (p2)**
+- North American (NA) Sales exhibited a peculiar pattern compared to other regions. There was a discernible higher sales peak between 0-3 units in the earlier years, indicating an early adoption or popularity of products in this region. This difference normalized with time, becoming more aligned with other regions.
+- The most striking peak in all regions was in 2006-07, while the lowest sales across regions were recorded around 2015.
+
+**Sales across Genres (p3)**
+- Genres played a varying role in sales dynamics:
+  - The Fighting genre showcased the highest median sales, pointing towards a consistent and potentially loyal customer base.
+  - Sports genre demonstrated high variability in sales, hinting at potential dependence on seasonal or annual factors (like sports events).
+  - Sales in the Platform genre showed variability, possibly indicating fluctuating consumer interest or market competition.
+- Notably, consistent sales in the Fighting genre might offer a stable market, while erratic sales in genres like Sports and Platform might require strategic marketing during peak interest periods.
+
+**Correlation Analysis (p4)**
+- NA Sales exhibited a robust positive correlation with Global Sales, potentially highlighting that NA is a significant contributor to global sales figures.
+- EU Sales also showed a positive correlation with Global Sales but not as strong as NA, indicating that while it is a vital market, it may not impact global figures as strongly as the NA market.
+- No negative correlations were observed, signalling that increases in regional sales tend to correspond with upticks in global sales.
+
+**Statistical Analysis: Skewness and Kurtosis**
+- All sales data (Global, NA, and EU) showed a significant positive skewness (Global: 4.03, NA: 4.29, EU: 4.8) and high kurtosis (Global: 29.45, NA: 28.19, EU: 41.44).
+- This pronounced skewness indicates that the sales data have a long right tail, implying a few periods with exceptionally high sales, which is coherent with the peaks observed in the early 2000s.
+- The high kurtosis, particularly in the EU Sales, suggests the presence of outliers or periods of extremely high sales, which could align with the identified peaks.
